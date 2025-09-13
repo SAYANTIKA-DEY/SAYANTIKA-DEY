@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayantika Dey</h1>
 <h3 align="center">Passionate about turning ideas into interactive web interfaces.</h3>
-<img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/549607090/35fb9901-a99b-4a7e-a796-7c80903781de">
+<img align="right" alt="coding" width="350" height="320" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?semt=ais_hybrid&w=740&q=80">
 
 
 
